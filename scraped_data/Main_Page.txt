@@ -1,0 +1,10 @@
+TITLE: Main Page
+SOURCE URL: https://starwars.fandom.com/wiki/Main_Page
+LANGUAGE: starwars.fandom.com
+SCRAPED: 2026-06-30T12:55:29+00:00
+================================================================================
+
+__NOTOC__
+__NOEDITSECTION__
+
+*

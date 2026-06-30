@@ -1,0 +1,2 @@
+httpx>=0.27.0
+Wikipedia-API>=0.15.0

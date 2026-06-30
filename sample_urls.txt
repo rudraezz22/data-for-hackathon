@@ -1,0 +1,131 @@
+# Wikipedia and Wiki Pages List
+
+## Wikipedia pages
+
+### History
+https://en.wikipedia.org/wiki/World_War_I
+https://en.wikipedia.org/wiki/French_Revolution
+
+### Politics & Government
+https://en.wikipedia.org/wiki/United_Nations
+https://en.wikipedia.org/wiki/Democracy
+
+### Science
+https://en.wikipedia.org/wiki/Physics
+https://en.wikipedia.org/wiki/DNA
+
+### Technology
+https://en.wikipedia.org/wiki/Artificial_intelligence
+https://en.wikipedia.org/wiki/Python_(programming_language)
+
+### People
+https://en.wikipedia.org/wiki/Albert_Einstein
+https://en.wikipedia.org/wiki/Nelson_Mandela
+
+### Geography & Nature
+https://en.wikipedia.org/wiki/Earth
+https://en.wikipedia.org/wiki/Mount_Everest
+
+### Medicine & Health
+https://en.wikipedia.org/wiki/Human_body
+https://en.wikipedia.org/wiki/Cancer
+
+### Mathematics
+https://en.wikipedia.org/wiki/Calculus
+https://en.wikipedia.org/wiki/Graph_theory
+
+### Philosophy
+https://en.wikipedia.org/wiki/Ethics
+https://en.wikipedia.org/wiki/Existentialism
+
+### Religion
+https://en.wikipedia.org/wiki/Hinduism
+https://en.wikipedia.org/wiki/Buddhism
+
+### Economics & Finance
+https://en.wikipedia.org/wiki/Economics
+https://en.wikipedia.org/wiki/Stock_market
+
+### Arts & Culture
+https://en.wikipedia.org/wiki/Film
+https://en.wikipedia.org/wiki/Literature
+
+### Education & Academia
+https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology
+https://en.wikipedia.org/wiki/Scientific_method
+
+### Environment & Energy
+https://en.wikipedia.org/wiki/Climate_change
+https://en.wikipedia.org/wiki/Renewable_energy
+
+### Law
+https://en.wikipedia.org/wiki/Law
+https://en.wikipedia.org/wiki/Constitutional_law
+
+---
+
+## Wiki Pages (Fandom)
+
+### Games
+https://minecraft.fandom.com/wiki/Minecraft_Wiki
+https://zelda.fandom.com/wiki/Zelda_Wiki
+
+### TV Shows & Movies
+https://starwars.fandom.com/wiki/Main_Page
+https://breakingbad.fandom.com/wiki/Breaking_Bad_Wiki
+
+### Books & Literature
+https://dune.fandom.com/wiki/Dune_Wiki
+https://coppermind.net/wiki/Main_Page
+
+---
+
+## Documentation & Reference
+
+### Programming Languages
+https://docs.python.org/3/
+https://developer.mozilla.org/en-US/
+
+### Frameworks & Libraries
+https://react.dev/
+https://nextjs.org/docs
+
+### Cloud & DevOps
+https://docs.aws.amazon.com/
+https://kubernetes.io/docs/
+
+### Databases
+https://www.postgresql.org/docs/
+https://redis.io/docs/
+
+### AI & Data Science
+https://platform.openai.com/docs
+https://paperswithcode.com/
+
+---
+
+## Encyclopedia & General Knowledge
+
+### Encyclopedias
+https://www.britannica.com/
+https://plato.stanford.edu/
+
+### Science & Research
+https://www.nature.com/
+https://arxiv.org/
+
+### History Resources
+https://www.history.com/
+https://www.worldhistory.org/
+
+### News & Current Events
+https://www.reuters.com/
+https://www.bbc.com/news
+
+### Language & Linguistics
+https://en.wiktionary.org/wiki/Wiktionary:Main_Page
+https://www.etymonline.com/
+
+### Geography
+https://www.cia.gov/the-world-factbook/
+https://ourworldindata.org/

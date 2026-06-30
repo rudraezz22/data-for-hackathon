@@ -1,0 +1,5 @@
+TITLE: Wiktionary:Main Page
+SOURCE URL: https://en.wiktionary.org/wiki/Wiktionary:Main_Page
+LANGUAGE: en.wiktionary.org
+SCRAPED: 2026-06-30T12:55:44+00:00
+================================================================================

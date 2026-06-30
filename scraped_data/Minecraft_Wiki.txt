@@ -1,0 +1,5 @@
+TITLE: Minecraft Wiki
+SOURCE URL: https://minecraft.fandom.com/wiki/Minecraft_Wiki
+LANGUAGE: minecraft.fandom.com
+SCRAPED: 2026-06-30T12:55:21+00:00
+================================================================================

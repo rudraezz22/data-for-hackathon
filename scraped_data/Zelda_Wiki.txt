@@ -1,0 +1,5 @@
+TITLE: Zelda Wiki
+SOURCE URL: https://zelda.fandom.com/wiki/Zelda_Wiki
+LANGUAGE: zelda.fandom.com
+SCRAPED: 2026-06-30T12:55:26+00:00
+================================================================================
