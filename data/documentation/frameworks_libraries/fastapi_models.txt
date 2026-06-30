@@ -1,0 +1,35 @@
+FastAPI Models
+
+FastAPI uses Pydantic models for validation.
+
+Example:
+from pydantic import BaseModel
+
+class User(BaseModel):
+name: str
+age: int
+
+Request Body:
+@app.post("/users")
+def create_user(user: User):
+return user
+
+Validation:
+
+* Type checking
+* Required fields
+* Default values
+
+Optional Fields:
+from typing import Optional
+
+email: Optional[str] = None
+
+Response Models:
+Used to control API output.
+
+Advantages:
+
+* Automatic validation
+* Better documentation
+* Type safety

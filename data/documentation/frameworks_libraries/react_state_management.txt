@@ -1,0 +1,32 @@
+React State Management
+
+State stores dynamic data inside components.
+
+Local State:
+const [name, setName] = useState("");
+
+Lifting State Up:
+Move shared state to the closest common parent.
+
+Context API:
+const UserContext = createContext();
+
+Provider:
+<UserContext.Provider value={user}>
+</UserContext.Provider>
+
+Consumer:
+const user = useContext(UserContext);
+
+External State Libraries:
+
+* Redux
+* Zustand
+* Recoil
+* MobX
+
+Best Practices:
+
+* Keep state minimal.
+* Avoid duplicated state.
+* Normalize complex state structures.

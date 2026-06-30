@@ -1,0 +1,75 @@
+Python is a high-level, interpreted, object-oriented programming language known for readability and simplicity.
+
+Data Types:
+
+int
+float
+str
+bool
+list
+tuple
+set
+dict
+
+Variables:
+name = "Alice"
+age = 20
+
+Operators:
++, -, *, /, %, //, **
+==, !=, >, <, >=, <=
+and, or, not
+
+Conditional Statements:
+if condition:
+pass
+elif condition:
+pass
+else:
+pass
+
+Loops:
+for item in iterable:
+pass
+
+while condition:
+pass
+
+Functions:
+def greet(name):
+return f"Hello {name}"
+
+Built-in Functions:
+len()
+range()
+type()
+input()
+print()
+sum()
+max()
+min()
+sorted()
+
+Collections:
+Lists are mutable ordered collections.
+Tuples are immutable ordered collections.
+Sets store unique values.
+Dictionaries store key-value pairs.
+
+Modules:
+import math
+import random
+
+File Handling:
+open()
+read()
+write()
+append()
+
+Exception Handling:
+try:
+pass
+except Exception:
+pass
+finally:
+pass

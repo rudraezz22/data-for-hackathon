@@ -1,0 +1,45 @@
+NumPy Basics
+
+NumPy is a library for numerical computing in Python.
+
+Array Creation:
+np.array()
+np.zeros()
+np.ones()
+np.arange()
+
+Indexing:
+arr[0]
+arr[1:5]
+
+Operations:
++
+-
+
+*
+
+/
+
+Broadcasting:
+Operations between arrays of different shapes.
+
+Reshaping:
+reshape()
+flatten()
+
+Mathematical Functions:
+np.sum()
+np.mean()
+np.max()
+np.min()
+np.std()
+
+Linear Algebra:
+np.dot()
+np.matmul()
+
+Advantages:
+
+* Fast computations
+* Vectorized operations
+* Memory efficient

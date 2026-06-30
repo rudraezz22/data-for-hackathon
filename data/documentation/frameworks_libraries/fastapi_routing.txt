@@ -1,0 +1,31 @@
+FastAPI Routing
+
+GET Route:
+@app.get("/users")
+
+POST Route:
+@app.post("/users")
+
+PUT Route:
+@app.put("/users/{id}")
+
+DELETE Route:
+@app.delete("/users/{id}")
+
+Path Parameters:
+@app.get("/users/{id}")
+
+Query Parameters:
+@app.get("/search")
+def search(q: str):
+return q
+
+Status Codes:
+200 OK
+201 Created
+400 Bad Request
+404 Not Found
+500 Internal Server Error
+
+APIRouter:
+Used to organize routes into separate files.

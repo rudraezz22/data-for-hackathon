@@ -1,0 +1,45 @@
+Pandas Basics
+
+Pandas is a library for data manipulation and analysis.
+
+Core Structures:
+
+* DataFrame
+* Series
+
+Reading Data:
+pd.read_csv()
+pd.read_excel()
+pd.read_json()
+
+Viewing Data:
+head()
+tail()
+info()
+describe()
+
+Selection:
+loc[]
+iloc[]
+
+Filtering:
+df[df["age"] > 18]
+
+Sorting:
+sort_values()
+
+Grouping:
+groupby()
+
+Handling Missing Data:
+dropna()
+fillna()
+
+Exporting:
+to_csv()
+to_excel()
+
+Advantages:
+
+* Powerful tabular data handling
+* Easy filtering and aggregation

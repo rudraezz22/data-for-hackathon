@@ -1,0 +1,44 @@
+Scikit-learn Basics
+
+Scikit-learn is a machine learning library for Python.
+
+Workflow:
+
+1. Load Data
+2. Split Data
+3. Train Model
+4. Evaluate Model
+
+Train Test Split:
+train_test_split()
+
+Common Algorithms:
+
+* Linear Regression
+* Logistic Regression
+* Decision Tree
+* Random Forest
+* KNN
+* SVM
+
+Model Training:
+model.fit(X_train, y_train)
+
+Prediction:
+model.predict(X_test)
+
+Evaluation Metrics:
+accuracy_score()
+precision_score()
+recall_score()
+f1_score()
+
+Preprocessing:
+StandardScaler()
+LabelEncoder()
+
+Advantages:
+
+* Easy API
+* Large collection of algorithms
+* Excellent documentation

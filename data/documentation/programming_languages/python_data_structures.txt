@@ -1,0 +1,34 @@
+List:
+Ordered mutable collection.
+
+Tuple:
+Ordered immutable collection.
+
+Set:
+Unordered collection of unique elements.
+
+Dictionary:
+Key-value mapping.
+
+Stack:
+LIFO data structure.
+
+Queue:
+FIFO data structure.
+
+Deque:
+Double-ended queue.
+
+Heap:
+Priority-based tree structure.
+
+Common Libraries:
+collections
+heapq
+queue
+
+Time Complexities:
+List append: O(1)
+List search: O(n)
+Dictionary lookup: O(1)
+Set lookup: O(1)

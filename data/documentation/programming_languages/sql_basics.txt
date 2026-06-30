@@ -1,0 +1,49 @@
+SQL stands for Structured Query Language.
+
+Common Commands:
+
+SELECT:
+SELECT * FROM users;
+
+INSERT:
+INSERT INTO users VALUES (...);
+
+UPDATE:
+UPDATE users SET name='John';
+
+DELETE:
+DELETE FROM users WHERE id=1;
+
+WHERE:
+Filters records.
+
+ORDER BY:
+Sorts results.
+
+GROUP BY:
+Groups rows.
+
+HAVING:
+Filters grouped rows.
+
+JOIN Types:
+INNER JOIN
+LEFT JOIN
+RIGHT JOIN
+FULL JOIN
+
+Aggregate Functions:
+COUNT()
+SUM()
+AVG()
+MAX()
+MIN()
+
+Database Concepts:
+Tables
+Rows
+Columns
+Primary Keys
+Foreign Keys
+Indexes
+Normalization

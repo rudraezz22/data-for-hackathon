@@ -1,0 +1,33 @@
+FastAPI Basics
+
+FastAPI is a modern Python web framework for building APIs.
+
+Installation:
+pip install fastapi uvicorn
+
+Creating an App:
+from fastapi import FastAPI
+app = FastAPI()
+
+Running Server:
+uvicorn main:app --reload
+
+Basic Endpoint:
+@app.get("/")
+def home():
+return {"message": "Hello"}
+
+HTTP Methods:
+
+* GET
+* POST
+* PUT
+* DELETE
+* PATCH
+
+Features:
+
+* Automatic API documentation
+* Type validation
+* High performance
+* Async support
